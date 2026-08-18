@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "group": "platinum",
+  "ingredient": {
+    "item": "codexa:platinum_residue"
+  },
+  "result": "codexa:platinum_nugget"
+}

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c846d8de-6a6c-47f5-a5aa-939cb1bceca5" name="Changes" comment="Star Forger renders invisible for some reason.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/eabky_dev/codexa/block/BlackHoleBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/eabky_dev/codexa/block/custom/BlackHoleBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/eabky_dev/codexa/block/OtherworldlyLanternBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/eabky_dev/codexa/block/custom/OtherworldlyLanternBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/eabky_dev/codexa/init/CodexaModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/eabky_dev/codexa/init/CodexaModBlocks.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Minecraft_Mod" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Minecraft_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Minecraft_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="forgegradle runs" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Minecraft_Mod" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eabky&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Eabky/Minecraft_Mod&quot;,
+    &quot;accountId&quot;: &quot;0e4363cc-66bb-4e7a-abb3-78f4764013e2&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.0.53_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.0.53_mapped_parchment_2024.11.17-1.21.1-sources.jar!/net/minecraft/world/level/block/Block.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.0.53_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.0.53_mapped_parchment_2024.11.17-1.21.1-sources.jar!/net/minecraft/world/level/block/state/BlockBehaviour.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2tnu1UbAxqnZCb1gmimGDEcKmqV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Minecraft_Mod [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Minecraft_Mod [runData].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Programming_Projects/Java/Minecraft_Mod/src/main/resources/assets/codexa/models/item&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.eabky_dev.codexa.entity" />
+      <recent name="net.eabky_dev.codexa.datagen" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\assets\codexa\models\item" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\data\codexa\worldgen" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\java\net\eabky_dev\codexa\worldgen" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\data\codexa\structures" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\data\codexa" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\assets\codexa\animations" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\assets\codexa\geo" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\assets\codexa\textures\item" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\assets\codexa\models\item" />
+      <recent name="F:\Programming_Projects\Java\Minecraft_Mod\src\main\resources\assets\codexa\textures\particle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Minecraft_Mod [runClient]">
+    <configuration name="Minecraft_Mod [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Minecraft_Mod [runData]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runData" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Minecraft_Mod [runClient]" />
+        <item itemvalue="Gradle.Minecraft_Mod [runData]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c846d8de-6a6c-47f5-a5aa-939cb1bceca5" name="Changes" comment="" />
+      <created>1740999946038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740999946038</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fix">
+      <option name="closed" value="true" />
+      <created>1741004956458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741004956458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix">
+      <option name="closed" value="true" />
+      <created>1741005095448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741005095448</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Back to 1.20.1. Added curios dependency.">
+      <option name="closed" value="true" />
+      <created>1741027797225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741027797225</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Datagen.">
+      <option name="closed" value="true" />
+      <created>1741074038679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741074038679</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed bamboo charcoal. Added recipe generator for generic items that dont have a group.">
+      <option name="closed" value="true" />
+      <created>1741074605011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741074605011</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added greatsword with custom model. &#10;Added platinum pickaxe and armor.">
+      <option name="closed" value="true" />
+      <created>1741109706761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741109706761</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Gem Golem &quot;boss&quot;, need to develop further.&#10;Added the Boss Killer item that is used for testing boss battles.">
+      <option name="closed" value="true" />
+      <created>1741282073096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741282073096</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Edited the iron greatsword model, looks better now, might be the general design I go with.&#10;Added ire generation as well as sunelm block and sunelm tree growing and generation,">
+      <option name="closed" value="true" />
+      <created>1741607452774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741607452774</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added the custom trunk placer for the Sunelm but it still needs tweaking.">
+      <option name="closed" value="true" />
+      <created>1741627852512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741627852512</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added the custom foliage placer for the Sunelm but it still needs tweaking.">
+      <option name="closed" value="true" />
+      <created>1741684830664</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741684830664</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added JEI integration.">
+      <option name="closed" value="true" />
+      <created>1741688416034</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741688416034</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Midnight Sea dimension. Needs A LOT of tweaking to get it how I want.">
+      <option name="closed" value="true" />
+      <created>1741730771824</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741730771824</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Chnage how entities and renderers are registered and called. Added the tomahawk projectile as a test and made it spawn the black hole (will remove later).">
+      <option name="closed" value="true" />
+      <created>1741795130150</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741795130150</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added gem spike that spawns when the golem attacks. &#10;Added corrosion effect and potion.&#10;Added lightning strike enchantment.">
+      <option name="closed" value="true" />
+      <created>1741898071428</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741898071429</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added custom block entity with geckolib.&#10;Tweaked the gem golem boss A LOT.&#10;Added a ruined church custom structure.">
+      <option name="closed" value="true" />
+      <created>1742002539542</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742002539542</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Tweaked some stuff. &#10;Added the watch tower.">
+      <option name="closed" value="true" />
+      <created>1742082768698</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742082768698</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Tweaked some stuff. &#10;Added ring of defiance and mantle of the universe.">
+      <option name="closed" value="true" />
+      <created>1742158141845</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742158141845</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Tweaked some stuff for the dimension.">
+      <option name="closed" value="true" />
+      <created>1742233291378</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1742233291378</updated>
+    </task>
+    <task id="LOCAL-00019" summary="A big pile of shit.">
+      <option name="closed" value="true" />
+      <created>1742327430380</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1742327430380</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added better combat and the Gemite mob.">
+      <option name="closed" value="true" />
+      <created>1742408612487</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1742408612487</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added Alabaster, will add the world gen later.">
+      <option name="closed" value="true" />
+      <created>1742566600299</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1742566600299</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Star Forger renders invisible for some reason.">
+      <option name="closed" value="true" />
+      <created>1742739178091</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1742739178091</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <MESSAGE value="Back to 1.20.1. Added curios dependency." />
+    <MESSAGE value="Datagen." />
+    <MESSAGE value="Fixed bamboo charcoal. Added recipe generator for generic items that dont have a group." />
+    <MESSAGE value="Added greatsword with custom model. &#10;Added platinum pickaxe and armor." />
+    <MESSAGE value="Added Gem Golem &quot;boss&quot;, need to develop further.&#10;Added the Boss Killer item that is used for testing boss battles." />
+    <MESSAGE value="Edited the iron greatsword model, looks better now, might be the general design I go with.&#10;Added ire generation as well as sunelm block and sunelm tree growing and generation," />
+    <MESSAGE value="Added the custom trunk placer for the Sunelm but it still needs tweaking." />
+    <MESSAGE value="Added the custom foliage placer for the Sunelm but it still needs tweaking." />
+    <MESSAGE value="Added JEI integration." />
+    <MESSAGE value="Midnight Sea dimension. Needs A LOT of tweaking to get it how I want." />
+    <MESSAGE value="Chnage how entities and renderers are registered and called. Added the tomahawk projectile as a test and made it spawn the black hole (will remove later)." />
+    <MESSAGE value="Added gem spike that spawns when the golem attacks. &#10;Added corrosion effect and potion.&#10;Added lightning strike enchantment." />
+    <MESSAGE value="Added custom block entity with geckolib.&#10;Tweaked the gem golem boss A LOT.&#10;Added a ruined church custom structure." />
+    <MESSAGE value="Tweaked some stuff. &#10;Added the watch tower." />
+    <MESSAGE value="Tweaked some stuff. &#10;Added ring of defiance and mantle of the universe." />
+    <MESSAGE value="Tweaked some stuff for the dimension." />
+    <MESSAGE value="A big pile of shit." />
+    <MESSAGE value="Added better combat and the Gemite mob." />
+    <MESSAGE value="Added Alabaster, will add the world gen later." />
+    <MESSAGE value="Star Forger renders invisible for some reason." />
+    <option name="LAST_COMMIT_MESSAGE" value="Star Forger renders invisible for some reason." />
+  </component>
+</project>

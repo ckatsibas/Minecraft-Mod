@@ -1,0 +1,18 @@
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode spectator
+/gamemode creative
+/time set day
+/weather clear
+/gamemode survival
+/damage Dev 5 minecraft:fall
+/damage Dev 10 minecraft:fall
+/gamemode survival
+/gamemode creative

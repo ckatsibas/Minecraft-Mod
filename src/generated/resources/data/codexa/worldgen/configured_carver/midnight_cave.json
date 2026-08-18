@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:cave",
+  "config": {
+    "floor_level": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_exclusive": -0.5,
+        "min_inclusive": -1.0
+      }
+    },
+    "horizontal_radius_multiplier": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_exclusive": 16.0,
+        "min_inclusive": 4.0
+      }
+    },
+    "lava_level": {
+      "absolute": -90
+    },
+    "probability": 0.92,
+    "replaceable": "#minecraft:overworld_carver_replaceables",
+    "vertical_radius_multiplier": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_exclusive": 18.0,
+        "min_inclusive": 8.0
+      }
+    },
+    "y": {
+      "type": "minecraft:uniform",
+      "max_inclusive": {
+        "absolute": 80
+      },
+      "min_inclusive": {
+        "above_bottom": 5
+      }
+    },
+    "yScale": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_exclusive": 5.0,
+        "min_inclusive": 1.0
+      }
+    }
+  }
+}
