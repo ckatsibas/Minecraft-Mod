@@ -1,2 +1,2 @@
-# My long time work in progress Minecraft Mod
-Maybe someday it will be playable...
+# My Minecraft Mod
+Maybe someday I'll finish it and release it.
